@@ -1,0 +1,31 @@
+ID,NAME,AGE,GENDER,CITY,DEPARTMENT,DIAGNOSIS,ADMISSION_DATE,DISCHARGED_DATE,bill_Amount,INSURANCE,STATUS,DOCTOR,RATING
+1,"Arjun Sharma",34,Male,Hyderabad,Cardiology,"Heart Disease",2024-01-05,2024-01-12,85000,Yes,Discharged,"Dr. Mehta",5
+2,"Priya Reddy",28,Female,Bangalore,Orthopedics,Fracture,2024-01-08,2024-01-15,42000,No,Discharged,"Dr. Rao",4
+3,"Rahul Verma",52,Male,Delhi,Neurology,Migraine,2024-01-10,2024-01-13,31000,Yes,Discharged,"Dr. Singh",3
+4,"Sneha Patel",45,Female,Mumbai,Cardiology,Hypertension,2024-01-12,NULL,67000,Yes,Admitted,"Dr. Mehta",4
+5,"Vikram Nair",61,Male,Chennai,Oncology,"Lung Cancer",2024-01-15,NULL,150000,No,Admitted,"Dr. Iyer",5
+6,"Ananya Iyer",23,Female,Hyderabad,General,Fever,2024-01-18,2024-01-20,8500,No,Discharged,"Dr. Kumar",4
+7,"Karthik Rao",39,Male,Bangalore,Orthopedics,"Back Pain",2024-01-20,2024-01-25,29000,Yes,Discharged,"Dr. Rao",3
+8,"Deepa Menon",55,Female,Kochi,Cardiology,"Chest Pain",2024-01-22,NULL,92000,Yes,Admitted,"Dr. Mehta",5
+9,"Suresh Gupta",48,Male,Delhi,Neurology,Stroke,2024-01-25,2024-02-05,175000,Yes,Discharged,"Dr. Singh",4
+10,"Meena Krishnan",31,Female,Chennai,General,Diabetes,2024-01-28,2024-01-31,15000,No,Discharged,"Dr. Iyer",3
+11,"Aditya Joshi",42,Male,Mumbai,Oncology,"Blood Cancer",2024-02-01,NULL,220000,Yes,Admitted,"Dr. Shah",5
+12,"Lakshmi Devi",67,Female,Hyderabad,Cardiology,"Heart Failure",2024-02-03,2024-02-15,135000,Yes,Discharged,"Dr. Mehta",4
+13,"Ravi Teja",29,Male,Bangalore,General,Typhoid,2024-02-05,2024-02-10,18000,No,Discharged,"Dr. Kumar",4
+14,"Pooja Singh",36,Female,Delhi,Orthopedics,"Knee Surgery",2024-02-08,2024-02-18,78000,Yes,Discharged,"Dr. Rao",5
+15,"Manish Agarwal",53,Male,Jaipur,Neurology,Epilepsy,2024-02-10,NULL,54000,No,Admitted,"Dr. Singh",3
+16,"Divya Nair",44,Female,Kochi,Oncology,"Breast Cancer",2024-02-12,2024-03-01,195000,Yes,Discharged,"Dr. Iyer",5
+17,"Sanjay Kumar",38,Male,Hyderabad,General,Malaria,2024-02-15,2024-02-19,12000,No,Discharged,"Dr. Kumar",3
+18,"Asha Bhat",60,Female,Bangalore,Cardiology,Arrhythmia,2024-02-18,NULL,88000,Yes,Admitted,"Dr. Mehta",4
+19,"Nikhil Reddy",25,Male,Hyderabad,Orthopedics,"Sports Injury",2024-02-20,2024-02-24,35000,No,Discharged,"Dr. Rao",4
+20,"Kavitha Menon",49,Female,Chennai,Neurology,Parkinson,2024-02-22,NULL,95000,Yes,Admitted,"Dr. Singh",5
+21,"Rajesh Pillai",57,Male,Kochi,Oncology,"Prostate Cancer",2024-02-25,2024-03-10,180000,Yes,Discharged,"Dr. Iyer",4
+22,"Swathi Sharma",33,Female,Delhi,General,Asthma,2024-02-27,2024-03-02,22000,No,Discharged,"Dr. Kumar",4
+23,"Venkat Rao",46,Male,Bangalore,Cardiology,"Bypass Surgery",2024-03-01,2024-03-14,250000,Yes,Discharged,"Dr. Mehta",5
+24,"Sunita Jain",41,Female,Mumbai,Orthopedics,"Hip Replacement",2024-03-03,NULL,120000,Yes,Admitted,"Dr. Rao",4
+25,"Prakash Nair",63,Male,Chennai,Neurology,Dementia,2024-03-05,NULL,72000,No,Admitted,"Dr. Singh",3
+26,"Rekha Iyer",37,Female,Hyderabad,General,"Kidney Infection",2024-03-08,2024-03-12,28000,Yes,Discharged,"Dr. Kumar",4
+27,"Manoj Tiwari",50,Male,Delhi,Oncology,"Colon Cancer",2024-03-10,NULL,210000,Yes,Admitted,"Dr. Shah",5
+28,"Geetha Krishnan",58,Female,Bangalore,Cardiology,"Valve Replacement",2024-03-12,2024-03-25,195000,Yes,Discharged,"Dr. Mehta",5
+29,"Harish Reddy",27,Male,Hyderabad,General,Appendicitis,2024-03-15,2024-03-19,45000,No,Discharged,"Dr. Kumar",4
+30,"Padma Venkat",54,Female,Chennai,Neurology,"Brain Tumor",2024-03-18,NULL,280000,Yes,Admitted,"Dr. Singh",5
