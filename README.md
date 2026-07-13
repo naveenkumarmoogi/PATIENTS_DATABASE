@@ -94,8 +94,9 @@ This project answers 40 analytical questions, including:
 ```
 Hospital-Patient-SQL/
 │
-├── Hospital_Patient_SQL.sql
-├── README.md
+├── PATIENT_DATABASE.sql      # Database schema, sample data, and SQL queries
+├── README.md                 # Project documentation
+└── PATIENT_DATA.csv          # Hospital patient records
 ```
 
 ---
